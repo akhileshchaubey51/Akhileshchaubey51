@@ -27,11 +27,11 @@
 ---
 
 ## 📂 Projects
-- 🎉 [College Event Management System](#) – Event booking & management system with PHP + MySQL  
+- 🎉 [College Event Management System]() – Event booking & management system with PHP + MySQL  
 - 🖥 [CPU Scheduling Simulator](#) – OS project with Gantt chart visualization, PDF/Excel export  
 - 🛒 [E-Commerce Website](#) – Dynamic product pages, cart & payment integration using PHP + MySQL  
 - 🎭 [Essence of Uttarakhand Web App](#) – Tourism & culture showcase platform  
-- 🔍 [GitHub Profile Finder](#) – Web app to search and display GitHub user profiles using REST API  
+- 🔍 [GitHub Profile Finder](https://github.com/akhileshchaubey51/github-profile-finder.git) – Web app to search and display GitHub user profiles using REST API  
 
 ---
 
