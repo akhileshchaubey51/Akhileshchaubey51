@@ -1,4 +1,4 @@
-# Hi, I'm Akhilesh 👋  
+# Hi, I'm Akhilesh Chaubey👋  
 🚀 Passionate Developer | 💻 Web Development & AI Enthusiast | 🌐 Tech Explorer  
 
 ## 🔥 Skills & Technologies
@@ -30,7 +30,7 @@
 - 🎉 [College Event Management System](https://github.com/akhileshchaubey51/akhileshchaubey51-College-Event-management-System.git) – Event booking & management system with PHP + MySQL  
 - 🖥 [CPU Scheduling Simulator](https://github.com/akhileshchaubey51/Process-Scheduling-Simulator-.git) – OS project with Gantt chart visualization, PDF/Excel export  
 - 🛒 [E-Commerce Website](#) – Dynamic product pages, cart & payment integration using PHP + MySQL  
-- 🎭 [Essence of Uttarakhand Web App](#) – Tourism & culture showcase platform  
+- 🎭 [Essence of Uttarakhand Web App](https://essenceofuttaranchal.netlify.app/) – Tourism & culture showcase platform  
 - 🔍 [GitHub Profile Finder](https://github.com/akhileshchaubey51/github-profile-finder.git) – Web app to search and display GitHub user profiles using REST API  
 
 ---
