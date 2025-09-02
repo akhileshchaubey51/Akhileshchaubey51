@@ -44,5 +44,5 @@
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-chaubeyakhilesh51%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaubeyakhilesh51@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-akhileshchaubey51-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhileshchaubey51)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhilesh%20Chaubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-chaubey-799277243/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhilesh%20Chaubey-28a745?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-chaubey-799277243/)<br> 
 [![Phone](https://img.shields.io/badge/Phone-+91%2097597%2090023-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+919759790023)
