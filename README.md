@@ -43,7 +43,7 @@
 
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-chaubeyakhilesh51%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaubeyakhilesh51@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lively-blini-bd42ec.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lively-blini-bd42ec.netlify.app/)<br>
 [![GitHub](https://img.shields.io/badge/GitHub-akhileshchaubey51-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhileshchaubey51)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhilesh%20Chaubey-28a745?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-chaubey-799277243/)<br> 
 [![Phone](https://img.shields.io/badge/Phone-+91%2093899%2077845-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+919389977845)
