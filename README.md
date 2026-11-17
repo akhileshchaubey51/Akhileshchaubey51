@@ -34,13 +34,6 @@
 - 🔍 [GitHub Profile Finder](https://github.com/akhileshchaubey51/github-profile-finder.git) – Web app to search and display GitHub user profiles using REST API  
 
 ---
-
-## 📊 GitHub Stats
-![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhileshchaubey51&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhileshchaubey51&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-chaubeyakhilesh51%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaubeyakhilesh51@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lively-blini-bd42ec.netlify.app/)<br>
